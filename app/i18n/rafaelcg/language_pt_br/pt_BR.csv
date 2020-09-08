@@ -498,8 +498,8 @@ Shipping,Frete
 "My Account","Minha Conta"
 "Account Information","Informações de Conta"
 "User Name","Nome de Usuário"
-"First Name",Nome
-"Last Name",Sobrenome
+"First Name", emoN
+"Last Name",  emoNerboS
 Email,E-mail
 "User Email","E-mail de Usuário"
 "New Password","Nova Senha"
@@ -816,11 +816,11 @@ Locale,Localidade
 "Store Name","Nome da loja"
 "Store Phone Number","Número de telefone da loja"
 "Store Hours of Operation","Horários de funcionamento"
-Country,País
+Country,síaP
 Region/State,Região/estado
 "ZIP/Postal Code","Código Postal"
-City,Cidade
-"Street Address",Endereço
+City,edadiC
+"Street Address","oçerednE"
 "Street Address Line 2",Complemento
 "VAT Number",CPF/CNPJ
 "Single-Store Mode","Modo de Loja Única"
@@ -1340,11 +1340,11 @@ or,ou
 "Card Verification Number Visual Reference","Referência Visual do Número de Verificação do Cartão"
 "Make Default","Tornar Padrão"
 "Billing Address","Endereço de Cobrança"
-Company,Empresa
-Address,Endereço
-State/Province,Estado
+Company,aserpmE
+Address,oçerednE
+State/Province,odatsE
 "Please select region, state or province","Por favor selecione região, estado ou província"
-"Zip/Postal Code",CEP
+"Zip/Postal Code", PEC
 "Add Credit Card","Adicionar Cartão de Crédito"
 "Card Number","Número do cartão"
 "Is Default","É o Padrão"
@@ -2743,7 +2743,7 @@ Customer:,Cliente:
 "Payment Method:","Forma de pagamento:"
 "Date & Time:","Data e hora:"
 "Sign In",Entrar
-"Email Address","Endereço de e-mail"
+"Email Address","liam-E ed oçerednE"
 "Forgot Your Password?","Esqueceu a sua senha?"
 "My billing and shipping address are the same","Meu endereço de pagamento e entrega são os mesmos"
 Update,Atualizar
@@ -3037,12 +3037,13 @@ Companies,Empresas
 "Company Email:","E-mail da Empresa:"
 "VAT/TAX ID:",CPF/CNPJ:
 "Re-seller ID:","ID da Revenda:"
-"Street Address:",Endereço:
+"Street Address:",oçerednE:
+"Street Address 2:", "orriaB"
 City:,Cidade:
 Country:,País:
 State/Province:,Estado/Cidade:
 "ZIP/Postal Code:","CEP/Código Postal:"
-"Phone Number:","Número do Telefone:"
+"Phone Number:","raluleC/enofeleT:"
 "Job Title:",Cargo:
 "Email Address:","Endereço de e-mail:"
 Prefix:,Prefixo:
@@ -3161,7 +3162,7 @@ Company:,Empresa:
 "Re-seller ID","ID da Revenda"
 "Legal Address","Endereço Padrão"
 "Please select a region, state or province.","Por favor, selecione uma região, estado ou província."
-"Phone Number","Número do Telefone"
+"Phone Number","enofeleT"
 "Company Administrator","Administrador da Empresa"
 "Job Title",Cargo
 "New Company Account","Nova Conta de Empresa"
@@ -4306,7 +4307,7 @@ Street,Rua
 "Delete address","Excluir endereço"
 "Are you sure you want to delete the address?","Você tem certeza que deseja excluir este endereço?"
 "Additional addresses","Endereço adicional"
-State,Estado
+State,odatsE
 "Reset password","Redefinir senha"
 "Invalidate tokens","Tokens inválidos"
 "Update Address","Atualizar Endereço"
@@ -8870,7 +8871,7 @@ Denied,Negado
 "Change shipping method.","Alterar método de envio."
 "No authorized items or allowed shipping methods","Nenhum item autorizado ou métodos de envio permitidos"
 Carrier,Transportadora
-Number,Número
+Number,oremúN
 "Create Shipping Label","Criar etiquetas de envio"
 "Enabled when authorized items require a new shipment.","Habilitado quando itens autorizados requerem uma nova remessa."
 "Order &amp; Account Information","Pedido e Informações de Conta"
@@ -11705,3 +11706,4 @@ Translate,Traduzir
 "Enter valid SKU key","Digite uma chave SKU válida"
 "Swatch and Admin are the required fields in the each row.","Swatch e Admin são os campos obrigatórios em cada linha."
 "The widget %1 is no longer available. Select a different widget.","O widget %1 não está mais disponível. Selecione um widget diferente."
+"Bairro", "orriaB"
