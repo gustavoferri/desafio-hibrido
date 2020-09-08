@@ -14,13 +14,13 @@ Portanto, teremos certeza de que entendeu-os corretamente.
 
 
 <h2>Via Composer</h2>
-<p>Para essa instalação é necessário ter instalado o composer <a href="https://getcomposer.org" rel="nofollow">Composer</a> você precisa usar o terminal do seu servidor.</p>
+<p>Para essa instalação é necessário ter instalado o <a href="https://getcomposer.org" rel="nofollow">Composer</a> você precisa usar o terminal do seu servidor.</p>
 
 <h2>1º Passo - Baixar o Magento</h2>
 
 Comando usado:
 <pre>
-$: <code>composer create-project --repository=https://repo.magento.com/ magento/project-community-edition:2.3.5 m235</code></pre>
+<code>composer create-project --repository=https://repo.magento.com/ magento/project-community-edition:2.3.5 m235</code></pre>
 
 <h2>2º Passo - Solucionar dois problemas <p>(pois um deles afeta na instalação).</p></h2>
 
@@ -133,14 +133,14 @@ Portanto, teremos certeza de que entendeu-os corretamente.</h4>
 
 arquivo:
 <code>\vendor\magento\module-checkout\view\frontend\web\template\shipping.html</code>
-</code>\app\design\frontend\Magento\luma\Magento_Checkout\web\template</code>
-<p> Adicionado </p>
+</code><a href="https://github.com/gustavoferri/desafio-hibrido/blob/master/app/design/frontend/Magento/luma/Magento_Checkout/web/template/shipping.html">\app\design\frontend\Magento\luma\Magento_Checkout\web\template</code>
+<p> Adicionado  </p>
 
-<code>
+<code><!-- BUTTON -->
 Botão - Voltar p/ Carrinho
 </code>
 
 <h4>Segue print da página:</h4>
-<img src="https://www.gustavoferri.com.br/hibrido/print-checkout.png">
+<img src="https://www.gustavoferri.com.br/hibrido/print-checkout-m2.png">
 
 
